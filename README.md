@@ -22,17 +22,9 @@ Highly recommend to install **Mojave 10.14.4**, I had upgraded system to Mojave1
   - Marvell AVATAR Bluetooth Radio Adapter
   - Microsoft 蓝牙LE枚举器
   - Microsoft蓝牙枚举器
-
 - 相机 Intel(R) AVStream Camera 2500
 
-
-
-
-![硬件参数](https://gitee.com/lizilong1993/image/raw/master/%E7%A1%AC%E4%BB%B6%E5%8F%82%E6%95%B0.png)
-
-
-
-
+![硬件参数](image/硬件参数.png)
 
 ## Working 
 
